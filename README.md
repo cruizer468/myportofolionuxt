@@ -1,5 +1,3 @@
-# ahmadsaugicom
-
 ## Build Setup
 
 ```bash
