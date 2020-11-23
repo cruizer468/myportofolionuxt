@@ -1,16 +1,16 @@
 export default [   
     {
-        image:"sekul.png",
-        title: 'Sekul Admin Dashboard',
-        description: "Free and open-source Bootstrap 5 admin template.",
-        technologies: ['SCSS','Bootstrap 5'],
-        github_url: 'https://github.com/zuramai/sekul'
+        image:"aws.png",
+        title: 'Automatic Weather Station',
+        description: "An IOT Website for monitoring weather station ",
+        technologies: ['PHP','CSS','Javascript'],
+        github_url: 'https://github.com/cruizer468/IOT-for-Automatic-Weather-Station'
     },
     {
-        image:"voler.png",
-        title: 'Voler Admin Dashboard',
-        description: "Free and open-source Bootstrap 5 admin template.",
-        technologies: ['SCSS','Bootstrap 5'],
+        image:"mondalist.png",
+        title: 'Sistem Monitoring Daya Listrik',
+        description: "An IOT Website for monitoring weather station ",
+        technologies: ['CSS','PHP'],
         github_url: 'https://github.com/zuramai/voler'
     },
     {

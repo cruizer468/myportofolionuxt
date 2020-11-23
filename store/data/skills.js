@@ -7,12 +7,12 @@ export default [
     {
     icon_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/160px-Figma-logo.svg.png',
     name: 'Figma',
-    years: '3 months',
+    years: '1 months',
     },
     {
     icon: "devicon-go-plain colored",
     name: 'Golang',
-    years: '6 months',
+    years: '1 months',
     },
     {
     icon: "devicon-css3-plain colored",
@@ -27,37 +27,32 @@ export default [
     {
     icon: "devicon-laravel-plain colored",
     name: 'Laravel',
-    years: '3 years',
+    years: '3 months',
     },
     {
     icon: "devicon-sass-plain colored",
     name: 'SASS',
-    years: '1 years',
+    years: '2 months',
     },
     {
     icon: "devicon-vuejs-plain colored",
     name: 'VueJS',
-    years: '2 years',
-    },
-    {
-    icon: "devicon-react-plain colored",
-    name: 'React',
     years: '3 months',
     },
     {
     icon: "devicon-jquery-plain colored",
     name: 'jQUery',
-    years: '3 years',
+    years: '2 years',
     },
     {
     icon: "devicon-express-original",
     name: 'ExpressJS',
-    years: '1 years',
+    years: '2 months',
     },
     {
     icon: "devicon-python-plain colored",
     name: 'Python',
-    years: '6 months',
+    years: '3 months',
     },
     {
     icon: "devicon-nodejs-plain colored",
@@ -68,11 +63,6 @@ export default [
     icon: "devicon-wordpress-plain colored",
     name: 'Wordpress',
     years: '1 year',
-    },
-    {
-    icon: "devicon-redis-plain colored",
-    name: 'Redis',
-    years: '8 months',
     },
     {
     icon: "devicon-mysql-plain colored",

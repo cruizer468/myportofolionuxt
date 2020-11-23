@@ -9,7 +9,7 @@
             <nav class='pt-8'>
                 <ul :class="{'nav flex flex-col md:flex-row justify-center w-full':true, 'navbar-show':navbar_show}">
                     <nav-item :to="{name: 'index'}" @click="navbar_show=false">Home</nav-item>
-                    <nav-item :to="{name: 'achievements'}" @click="navbar_show=false">Achievements</nav-item>
+                    <nav-item :to="{name: 'about'}" @click="navbar_show=false">About</nav-item>
                     <nav-item :to="{name: 'projects'}" @click="navbar_show=false">Projects</nav-item>
                     <nav-item :to="{name: 'skills'}" @click="navbar_show=false">Skills</nav-item>
                     <nav-item :to="{name: 'contact'}" @click="navbar_show=false">Contact</nav-item>
