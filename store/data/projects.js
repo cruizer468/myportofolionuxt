@@ -1,37 +1,23 @@
 export default [   
     {
         image:"aws.png",
-        title: 'Automatic Weather Station',
-        description: "An IOT Website for monitoring weather station ",
+        title: 'AWS Ilkom IPB',
+        description: "Website IoT untuk memonitoring weather station",
         technologies: ['PHP','CSS','Javascript'],
         github_url: 'https://github.com/cruizer468/IOT-for-Automatic-Weather-Station'
     },
     {
         image:"mondalist.png",
-        title: 'Sistem Monitoring Daya Listrik',
-        description: "An IOT Website for monitoring weather station ",
+        title: 'MONDALIST (Monitoring Daya Listrik)',
+        description: "Website IoT untuk memonitoring daya listrik",
         technologies: ['CSS','PHP'],
-        github_url: 'https://github.com/zuramai/voler'
+        github_url: 'https://github.com/cruizer468/IOT-for-monitoring-daya-listrik'
     },
     {
         image:"forum.png",
         title: 'DevoverID Forum',
         description: "A forum website for you to ask and help others in programming.",
         technologies: ['NuxtJS', 'Lumen', 'PostgreSQL'],
-    },
-    {
-        image:"othello.png",
-        title: 'Othello HTML5 Game',
-        description: "Othello Board Game you can play via website (LKSN 2019 task)",
-        technologies: ['Javascript'],
-        github_url: 'https://github.com/zuramai/snake-html5'
-    },
-    {
-        image:"snake.png",
-        title: 'Snake HTML5 Game',
-        description: "HTML5 Snake Game called Phytons using canvas (result of LKSN 2020)",
-        technologies: ['Javascript'],
-        github_url: 'https://github.com/zuramai/snake-html5'
     },
     {
         image:"travelify.png",
@@ -81,26 +67,6 @@ export default [
         description: "Website untuk Devover.ID yaitu komunitas para developer generasi Z",
         technologies: ['Wordpress','Bootstrap']
     },
-    
-    {
-        image:"1.png" ,
-        title: 'Laravel-SMM V1',
-        description: "SMM Panel adalah website untuk membeli jasa Sosial Media Marketing seperti instagram followers, youtube subscribers, dll.",
-        technologies: ['PHP Laravel 5.7','Bootstrap 4']
-    },
-    
-    {
-        image:"2.png" ,
-        title: 'Laravel-SMM V2',
-        description: "SMM Panel adalah website untuk membeli jasa Sosial Media Marketing seperti instagram followers, youtube subscribers, dll.",
-        technologies: ['PHP Laravel 5.8','Bootstrap 4']
-    },
-    {
-        image:"3.png" ,
-        title: 'Smart School System',
-        description: "Smart School Berbasis Full Face Recognition (Absensi, Lacak Siswa, Ujian Online, Akses kelas, dll)",
-        technologies: ['Golang','NodeJS','PHP Laravel 5.8','VueJS 2','TailwindCSS','MongoDB']
-    },
     {
         image:"4.png" ,
         title: 'Whatsapp Bot Sender',
@@ -120,12 +86,6 @@ export default [
         technologies: ['PHP Native','CSS Native']
     },
     {
-        image:"7.png" ,
-        title: 'Website Kelas',
-        description: "Website untuk mengatur sistem kelas seperti jadwal pelajaran, jadwal piket, anggota kelas, dan lain-lain.",
-        technologies: ['PHP Laravel 5.8']
-    },
-    {
         image:"8.png",
         title: 'Travel Agency Website',
         description: "Website agensi untuk jasa travel yang dimana bisa mendaftar sebagai agen travel dan customer",
@@ -142,12 +102,6 @@ export default [
         title: 'Arminareka Company Profile',
         description: "Website company profile mengenai jasa haji dan umroh",
         technologies: ['TailwindCSS']
-    },
-    {
-        image:"11.png",
-        title: 'Website Point of Sales',
-        description: "Adalah website untuk manajemen penjualan sekaligus aplikasi kasir serta laporan penjualan lengkap",
-        technologies: ['PHP Laravel 5.7','VueJS 2']
     },
     {
         image:"12.png",

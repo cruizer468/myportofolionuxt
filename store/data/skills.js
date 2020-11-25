@@ -77,6 +77,6 @@ export default [
     { 
     icon: "devicon-mongodb-plain colored",
     name: 'MongoDB',
-    years: '1 year',
+    years: '2 months',
     }
 ]

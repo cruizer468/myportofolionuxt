@@ -18,7 +18,7 @@
         <a class='socmed inline-block mr-4 duration-200 ease-in-out' href="https://www.instagram.com/wahyumnou">
           <img src="@/assets/socmed/instagram.svg" alt="Instagram" class='w-8' target="_blank">
         </a>
-        <a class='socmed inline-block mr-4 duration-200 ease-in-out' href="https://www.linkedin.com/in/wahyu-muhammad-nouval-bb72611a7/">
+        <a class='socmed inline-block mr-4 duration-200 ease-in-out' href="https://www.linkedin.com/in/wahyumnou/">
           <img src="@/assets/socmed/linkedin-circle.svg" alt="Linkedin" class='w-8' target="_blank">
         </a>
       </div>
@@ -46,7 +46,7 @@ export default {}
 .title {
   display: block;
   font-weight: 300;
-  font-size: 80px;
+  font-size: 60px;
   color: #35495e;
   letter-spacing: 1px;
 }

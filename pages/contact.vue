@@ -31,7 +31,7 @@
                 </div>
                 <div class="contact flex flex-row items-center mb-5">
                     <img src="@/assets/socmed/linkedin-circle.svg" alt="LinkedIn" class='w-8 mr-3'>
-                    <a class='text-blue-600 hover:text-blue-400' href="https://www.linkedin.com/in/wahyu-muhammad-nouval-bb72611a7/" target="_blank">https://www.linkedin.com/in/wahyu-muhammad-nouval-bb72611a7/</a>
+                    <a class='text-blue-600 hover:text-blue-400' href="https://www.linkedin.com/in/wahyumnou/" target="_blank">https://www.linkedin.com/in/wahyumnou/</a>
                 </div>
             </div>
         </div>
