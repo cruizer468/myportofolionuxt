@@ -61,18 +61,18 @@ export default [
     //     technologies: ['TailwindCSS','SCSS'],
     //     github_url: 'https://github.com/zuramai/zuradmin'
     // },
-    {
-        image:"devover.png",
-        title: 'Devover.ID',
-        description: "Website untuk Devover.ID yaitu komunitas para developer generasi Z",
-        technologies: ['Wordpress','Bootstrap']
-    },
-    {
-        image:"4.png" ,
-        title: 'Whatsapp Bot Sender',
-        description: "Sebuah API untuk mengirim pesan whatsapp ke orang atau grup, sekaligus auto join grup whatsapp",
-        technologies: ['Python Flask','Jinja2','Bootstrap 4','PostgreSQL']
-    },
+    // {
+    //     image:"devover.png",
+    //     title: 'Devover.ID',
+    //     description: "Website untuk Devover.ID yaitu komunitas para developer generasi Z",
+    //     technologies: ['Wordpress','Bootstrap']
+    // },
+    // {
+    //     image:"4.png" ,
+    //     title: 'Whatsapp Bot Sender',
+    //     description: "Sebuah API untuk mengirim pesan whatsapp ke orang atau grup, sekaligus auto join grup whatsapp",
+    //     technologies: ['Python Flask','Jinja2','Bootstrap 4','PostgreSQL']
+    // },
     // {
     //     image:"5.png" ,
     //     title: 'Sistem Inventaris/Gudang',
@@ -97,24 +97,24 @@ export default [
     //     description: "tools.zuramai.net adalah website yang berisi kumpulan tools unik yang bisa digunakan",
     //     technologies: ['PHP Laravel 6']
     // },
-    {
-        image:"10.png",
-        title: 'Arminareka Company Profile',
-        description: "Website company profile mengenai jasa haji dan umroh",
-        technologies: ['TailwindCSS']
-    },
-    {
-        image:"12.png",
-        title: 'Wordpress Template Company Profile',
-        description: "Website company profile dibuat dengan Wordpress sekaligus membuat plugin Contact Form dan Gallery.",
-        technologies: ['TailwindCSS']
-    },
-    {
-        image:"13.png",
-        title: 'GoDir - File Directory Manager',
-        description: "GoDir - Website file manager (seperti cPanel) untuk upload, download, delete, rename, dan lain-lain",
-        technologies: ['Golang','VueJS 2','MongoDB']
-    },
+    // {
+    //     image:"10.png",
+    //     title: 'Arminareka Company Profile',
+    //     description: "Website company profile mengenai jasa haji dan umroh",
+    //     technologies: ['TailwindCSS']
+    // },
+    // {
+    //     image:"12.png",
+    //     title: 'Wordpress Template Company Profile',
+    //     description: "Website company profile dibuat dengan Wordpress sekaligus membuat plugin Contact Form dan Gallery.",
+    //     technologies: ['TailwindCSS']
+    // },
+    // {
+    //     image:"13.png",
+    //     title: 'GoDir - File Directory Manager',
+    //     description: "GoDir - Website file manager (seperti cPanel) untuk upload, download, delete, rename, dan lain-lain",
+    //     technologies: ['Golang','VueJS 2','MongoDB']
+    // },
     // {
     //     image:"14.png",
     //     title: 'HTML5 Canvas Game Development',

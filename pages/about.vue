@@ -6,8 +6,7 @@
         <div class="page-body px-5">
             <div class="card bg-white shadow-2xl rounded-lg px-12 py-8 mb-2">
                 <div class="about">
-                <h5 class='text-lg font-medium'>i am the type of person who is very concerned about every job I do, 
-                it can be said I am the type of person who is a perfectionist. But I only apply perfectionists with everything related to work. If in everyday life, I am the type of person who is a mess, in everything.</h5>
+                <h5 class='text-lg font-medium'>I am someone who has an interest in the IT field, especially programmer, data, and hardware/software development. I have experience working Full Stack Developer IoT Website and Mobile Apps and have a passion for joining social activities. I am happy to learn things related to programmers and IoT.</h5>
                 <!--    <ul class="achievements">
                         <li class='achievement flex flex-col md:flex-row text-left justify-start   items-center mb-5'>
                             <img src="@/assets/images/icon/trophy.svg" alt="Trophy" class='w-8'>
