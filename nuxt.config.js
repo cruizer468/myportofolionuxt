@@ -1,49 +1,88 @@
 export default {
-  // Disable server-side rendering (https://go.nuxtjs.dev/ssr-mode)
+  // Disable server-side rendering
   ssr: false,
 
-  // Target (https://go.nuxtjs.dev/config-target)
+  // Static target
   target: 'static',
 
-  // Global page headers (https://go.nuxtjs.dev/config-head)
+  // Global page headers
   head: {
     title: 'wahyuportofolionuxtjs',
+
     meta: [
       { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' }
+
+      {
+        name: 'viewport',
+        content: 'width=device-width, initial-scale=1'
+      },
+
+      {
+        hid: 'description',
+        name: 'description',
+        content: ''
+      }
     ],
+
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', href:'https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css' }
+      {
+        rel: 'icon',
+        type: 'image/x-icon',
+        href: '/favicon.ico'
+      },
+
+      {
+        rel: 'stylesheet',
+        href: 'https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css'
+      }
     ]
   },
 
-  // Global CSS (https://go.nuxtjs.dev/config-css)
+  // Global CSS
   css: [
-    "@/assets/scss/app.scss"
+    'assets/scss/app.scss'
   ],
 
-  // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
+  // Plugins
   plugins: [
-    {src: "./plugins/particles.js", ssr: false}
+    {
+      src: '~/plugins/particles.js',
+      mode: 'client'
+    }
   ],
 
-  // Auto import components (https://go.nuxtjs.dev/config-components)
+  // Auto import components
   components: true,
 
-  // Modules for dev and build (recommended) (https://go.nuxtjs.dev/config-modules)
+  // Build modules
   buildModules: [
-    // https://go.nuxtjs.dev/tailwindcss
-    '@nuxtjs/tailwindcss',
-    '@nuxtjs/imagemin',
+    '@nuxtjs/tailwindcss'
   ],
 
-  // Modules (https://go.nuxtjs.dev/config-modules)
-  modules: [
-  ],
+  // Modules
+  modules: [],
 
-  // Build Configuration (https://go.nuxtjs.dev/config-build)
+  // Tailwind config
+  tailwindcss: {
+    jit: false
+  },
+
+  // Build config
   build: {
+    transpile: [
+      '@tsparticles/vue2',
+      'tsparticles'
+    ],
+
+    postcss: {
+      plugins: {
+        tailwindcss: {},
+        autoprefixer: {}
+      },
+
+      preset: {
+        stage: 1
+      }
+    }
   }
 }

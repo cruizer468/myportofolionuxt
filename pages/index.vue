@@ -7,7 +7,7 @@
       <h1 class="title my-8 leading-tight">
         Wahyu Muhammad Nouval
       </h1>
-      <p class='text-2xl'><span class='text-green-600'>Enthusiastic</span> Web Developer</p>
+      <p class='text-2xl'><span class='text-green-600'>Enthusiastic</span> Automation</p>
       <div class="links d-flex flex-row mt-5">
         <a class='socmed inline-block mr-4 duration-200 ease-in-out' href="https://www.facebook.com/wahyu.smasher">
           <img src="@/assets/socmed/facebook-circle.svg" alt="Facebook" class='w-8' target="_blank">
